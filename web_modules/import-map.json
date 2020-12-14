@@ -2,6 +2,7 @@
   "imports": {
     "@zuzak/owo": "./@zuzak/owo.js",
     "owoify-js": "./owoify-js.js",
+    "uwuify": "./uwuify.js",
     "vue": "./vue.js"
   }
 }
