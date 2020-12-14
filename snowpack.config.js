@@ -1,7 +1,7 @@
 /** @type {import("snowpack").SnowpackUserConfig } */
 module.exports = {
   mount: {
-    public: {url: '/', static: true},
+    public: {url: '/owoificator/', static: true},
     src: {url: '/dist'},
   },
   plugins: [
