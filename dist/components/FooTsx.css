@@ -1,0 +1,5 @@
+
+/* unsupport scoped css in vue with tsx, jsx*/
+.foo-tsx-vue {
+  color: green;
+}
