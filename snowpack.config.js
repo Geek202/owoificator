@@ -19,7 +19,7 @@ module.exports = {
     /* ... */
   },
   buildOptions: {
-    /* ... */
+    metaDir: 'snowpack'
   },
   proxy: {
     /* ... */
